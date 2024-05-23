@@ -1,1 +1,4 @@
-JAVA SCRIPT
+# JAVA SCRIPT
+
+1. Basics of JavaScript
+
